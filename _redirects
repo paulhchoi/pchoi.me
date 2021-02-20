@@ -1,22 +1,22 @@
-/git			https://github.com/paulhchoi/
-/gh				https://github.com/paulhchoi/
-/li				https://www.linkedin.com/in/paulhchoi/
-/tw				https://twitter.com/paulchoidev/
+/git        https://github.com/paulhchoi/
+/gh         https://github.com/paulhchoi/
+/li         https://www.linkedin.com/in/paulhchoi/
+/tw         https://twitter.com/paulchoidev/
 
-/about		https://paulchoi.dev/
-/resume		https://paulchoi.dev/resume/
-/projects	https://paulchoi.dev/projects/
-/uses			https://paulchoi.dev/uses/
+/about      https://paulchoi.dev/
+/resume     https://paulchoi.dev/resume/
+/projects   https://paulchoi.dev/projects/
+/uses       https://paulchoi.dev/uses/
 
-/m			https://metrophilly.org/
-/p			https://pfc.us/
+/m          https://metrophilly.org/
+/p          https://pfc.us/
 
-/ven			https://venmo.com/paulhchoi
-/pay			https://www.paypal.com/paypalme/paulhchoi
-/chess			https://www.chess.com/member/pawlnstars
+/ven        https://venmo.com/paulhchoi
+/pay        https://www.paypal.com/paypalme/paulhchoi
+/chess      https://www.chess.com/member/pawlnstars
 
-/short			https://github.com/paulhchoi/pchoi.me
-/edit			https://github.com/paulhchoi/pchoi.me/edit/main/_redirects
+/short      https://github.com/paulhchoi/pchoi.me
+/edit       https://github.com/paulhchoi/pchoi.me/edit/main/_redirects
 
-# catach-all fallback
-/*				https://paulchoi.dev/
+# catach-allfallback
+/*          https://paulchoi.dev/
