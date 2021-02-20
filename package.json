@@ -1,0 +1,15 @@
+{
+  "name": "pchoi.me",
+  "version": "1.0.0",
+  "baseUrl": "https://pchoi.me",
+  "main": "index.js",
+  "repository": "https://github.com/paulhchoi/pchoi.me.git",
+  "author": "Paul Choi <paulhchoi+github@pm.me>",
+  "license": "MIT",
+  "scripts": {
+    "short": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
