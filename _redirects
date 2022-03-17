@@ -36,5 +36,5 @@
 /short                                https://github.com/paulhchoi/pchoi.me
 /edit                                 https://github.com/paulhchoi/pchoi.me/edit/main/_redirects
 
-#catach-allfallback
+#catch-all fallback
 /*                                    https://paulchoi.dev/
